@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "zubair-sfh-app",
+    "slug": "zubair-sfh-app",
+    "privacy": "public",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "saylani-hackathon-final"
+    },
+    "android": {
+      "package": "com.tkakhter.reactnativepaperlogintemplate"
+    },
+    "description": "this app is under development",
+    "githubUrl": "https://github.com/zubair-shah/final-hackathone-saylani-web"
+  }
+}
